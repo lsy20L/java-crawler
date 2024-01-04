@@ -1,0 +1,16 @@
+
+ˆ
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(ÝîÎ™þÿÿÿÿ
+l
+java:S2095H"QUse try-with-resources or close this "CloseableHttpClient" in a "finally" clause.(‘ÁÄÐüÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ë¢ñãûÿÿÿÿ
+I
+java:S11723".Remove this unused method parameter "message".(Áœ²¤üÿÿÿÿ
+T
+java:S34007"9Remove this method and declare a constant for this value.(Ö§”Óþÿÿÿÿ
+L
+java:S11726"6Remove these unused method parameters "url", "params".(ø‡œ·
+V	java:S1258"<This block of commented-out lines of code should be removed.(§¡¾“ûÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ

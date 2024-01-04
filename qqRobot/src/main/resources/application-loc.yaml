@@ -1,0 +1,12 @@
+api:
+  token: NjihN5xTQ49qXgkR
+user:
+  agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+music:
+  cookie: MUSIC_R_T=1573917867041; MUSIC_A_T=1573917838144; _ntes_nnid=83c50d2e9a5652027ea997353a4c0d38,1681032879950; _ntes_nuid=83c50d2e9a5652027ea997353a4c0d38; NMTID=00OceTE-OVWeTZzA02Hk71Mo81cmQQAAAGHZV4lWA; WEVNSM=1.0.0; WNMCID=okesaw.1681032880623.01.0; JSESSIONID-WYYY=1m2xj55WYljwEEr1KX\M9s/Sxkgzqnf1vfifA1XR9sTo1211b+R27fzobRkAnYcb8/GcDUfW7PIOoY/Cc1U61Rm5cPX5mQgsk\WZpS\QdavMZtMzgJvnVa6EDBdv46ddIrCla4mcVAqOrdDoQoBjOTgY0/l3ToqnfGMu\AJA04AAuYDI:1681034680951; _iuqxldmzr_=33; __snaker__id=fZyeH9IKOPVzpqnB; WM_TID=BQ7zDN6Sak1AQBEQVFbAdO1mlkqUjl2z; gdxidpyhxdE=mj7KWY89GiBTP3I1ELW3r7EkM+JIblGwms3UK4E3K6AnaA+iL9jZJRds5lr7HZKN98PBILHl/PZ7GCip3p56kZw3ruO0EdmsIPzcC5Jiw/vypPWCItjM\jgO1AJThL\Z\e2sREO4c/THBxasLg/cqKOukgzI0a\4rkwJY3JeVdbU1awJ:1681033815291; MUSIC_U=75fd5724b618b4e717d9e490ec497d3f8e625c32ca87558584863bd016775d11993166e004087dd393e5f5344db4adc04063e6a3d600239ee0feb51ff6cfefefa406cadb149cea45d4dbf082a8813684; __remember_me=true; __csrf=e9f5ee4478d4fea2ec6697894acf338b; ntes_kaola_ad=1
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://43.143.184.134:3306/robot?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=UTC
+    username: root
+    password: Linkage..2022

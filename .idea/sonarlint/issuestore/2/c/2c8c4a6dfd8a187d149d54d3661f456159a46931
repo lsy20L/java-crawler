@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªŒˆ
+Q	java:S1257"<This block of commented-out lines of code should be removed.(Œí¸È
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(©þêÜúÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(ÚÒ¹´
+W
+java:S1117l"<Rename "messages" which hides the field declared at line 51.(Ëùü¬ûÿÿÿÿ
+c
+java:S1128"MRemove this unused import 'com.crawler.qqrobot.mbg.model.TGptHistoryExample'.(µá¼í
